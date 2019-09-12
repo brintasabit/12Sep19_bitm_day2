@@ -21,7 +21,8 @@ namespace MyWindowsFomApp
 
 
             //Application.Run(new Home());
-            Application.Run(new DataUI());
+           // Application.Run(new DataUI());
+            Application.Run(new Condition());
 
         }
     }

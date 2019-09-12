@@ -18,3 +18,4 @@ D:\12Sep19Bitm\12Sep19_bitm_day2\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWin
 D:\12Sep19Bitm\12Sep19_bitm_day2\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.exe
 D:\12Sep19Bitm\12Sep19_bitm_day2\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.pdb
 D:\12Sep19Bitm\12Sep19_bitm_day2\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.DataUI.resources
+D:\12Sep19Bitm\12Sep19_bitm_day2\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.Condition.resources

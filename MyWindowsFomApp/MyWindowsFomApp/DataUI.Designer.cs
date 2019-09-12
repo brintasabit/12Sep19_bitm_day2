@@ -84,7 +84,6 @@
             this.ResultTextbox.Name = "ResultTextbox";
             this.ResultTextbox.Size = new System.Drawing.Size(100, 20);
             this.ResultTextbox.TabIndex = 3;
-            this.ResultTextbox.TabIndexChanged += new System.EventHandler(this.ShowButton_Click);
             // 
             // ShowButton
             // 
