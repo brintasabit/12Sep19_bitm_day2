@@ -1,0 +1,10 @@
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\bin\Debug\MyWindowsFomApp.exe.config
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\bin\Debug\MyWindowsFomApp.exe
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\bin\Debug\MyWindowsFomApp.pdb
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.csprojAssemblyReference.cache
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.Properties.Resources.resources
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.csproj.GenerateResource.cache
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.csproj.CoreCompileInputs.cache
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.exe
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.pdb
+D:\12Sep19Bitm\MyWindowsFomApp\MyWindowsFomApp\obj\Debug\MyWindowsFomApp.Home.resources
