@@ -20,7 +20,9 @@ namespace MyWindowsFomApp
 
 
 
-            Application.Run(new Home());
+            //Application.Run(new Home());
+            Application.Run(new DataUI());
+
         }
     }
 }
