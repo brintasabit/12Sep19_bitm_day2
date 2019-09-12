@@ -16,5 +16,14 @@ namespace MyWindowsFomApp
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hi " +NameTextbox.Text);
+            label2.Text = NameTextbox.Text;
+
+
+
+        }
     }
 }
